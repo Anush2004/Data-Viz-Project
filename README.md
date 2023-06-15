@@ -4,9 +4,9 @@
 
 ## Team members
 
-1. Anush Anand - _Spider chart with integrated bar charts, emergency declaration bar chart_
-2. Mitansh Kayathwal - _Mercator map, Decadal stacked bar chart_ 
-3. Vineeth Bhat - _Zoomable sunburst, hierarchical tree, circular packing, sankey chart, integration of visualizations_
+1. Anush Anand 
+2. Mitansh Kayathwal 
+3. Vineeth Bhat
 
 ## Technologies used
 
